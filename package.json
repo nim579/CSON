@@ -1,0 +1,25 @@
+{
+  "name": "cson-light",
+  "version": "0.0.1",
+  "description": "CoffeeScript Object Notation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nim579/CSON.git"
+  },
+  "keywords": [
+    "cson",
+    "json",
+    "CoffeeScript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "js2coffee": "~0.2.7"
+  }
+}
